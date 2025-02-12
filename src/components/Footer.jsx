@@ -5,9 +5,9 @@ function Footer() {
     <h6 className="text-sm text-center w-full">
       Created via 💙{" "}
       <a
-        href="https://github.com/BilalGumus"
+        href="https://github.com/prajesh-dutta"
         target="_blank"
-        alt="Bilal Gümüş's GitHub Account"
+        alt="Prajesh Dutta Github Account"
         className="hover:underline"
       >
         Prajesh
